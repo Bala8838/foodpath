@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;;
+}
+.sec1
+{
+    width: 100%;
+    height: 15vh;
+    background-color: whitesmoke;
+    overflow: hidden;
+}
+.col1 img{
+    width: 200px;
+    margin-left: 80px;
+    margin-top: 30px;
+    display: inline;
+}
+.col2 ul{
+    display: flex;
+    list-style: none;
+    float: right;
+}
+.col2 li{
+    margin-right: 80px;
+    margin-top: -50px;
+}
+.sec2{
+    width: 100%;
+    height: 8vh;
+    background-color: #232323;
+    color: white;
+}
+.row1{
+    display: flex;
+}
+.col3 h2{
+    margin-top: 10px;
+    margin-left: 300px;
+}
+.col3 button{
+    display: flex;
+    width: 130px;
+    height: 50px;
+    margin-top: -52px;
+    margin-left: 1020px;
+    border-radius: 30px;
+    border: 2px;
+    background-color: red;
+    color: black;
+}
+.col3 p{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.sec9{
+    width: 100%;
+    height: 150vh;
+    background-color: whitesmoke;
+}
+.container{
+    display: flex;
+}
+.ae{
+    margin-right: 50px;
+    margin-top: 140px;
+}
+.se{
+    margin-right: 50px;
+    margin-top: 100px;
+}
+.sec7{
+    width: 100%;
+    height: 60vh;
+    background-color: #232323;
+    color: white;
+}
+.row7{
+    display: flex;
+}
+.img5 img{
+    width: 130px;
+    padding-top: 200px;
+    margin-left: 60px;
+}
+.de ul{
+     list-style: none;
+     padding-top: -200px;
+     padding-left: 300px;
+     margin-top: -90px;
+}
+.fe ul{
+    list-style: none;
+    padding-left: 480px;
+    margin-top: -200px;
+}
+.lp ul{
+    list-style: none;
+    padding-top: 80px;
+    padding-left: 700px;
+    margin-top: -245px;
+}
+.lt ul{
+    list-style: none;
+    padding-top: 80px;
+    padding-left: 920px;
+    margin-top: -215px;
+}
+.de li{
+    font-size: 20px;
+}
+.fe li{
+    font-size: 20px;
+}
+.lp li{
+    font-size: 20px;
+}
+.lt li{
+    font-size: 20px;
+}
+.img6 img{
+    width: 100px;
+    margin-left: 1200px;
+    margin-top: -250px;
+}
+.img7 img{
+    width: 100px;
+    margin-left: 1200px;
+    margin-top: -160px;
+}
+.cont p{
+    margin-left: 420px;
+    margin-top: 50px;
+}
+.icon{
+    margin-left: 1210px;
+    margin-top: -140px;
+    word-spacing: 10px;
+}
